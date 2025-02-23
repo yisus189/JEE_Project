@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1Nicolas8-Taller-aplicaci-n-empresarial-con-EJB-JPA-master/JEE_Project-ejb/JEE_Project-ejb.iml" filepath="$PROJECT_DIR$/1Nicolas8-Taller-aplicaci-n-empresarial-con-EJB-JPA-master/JEE_Project-ejb/JEE_Project-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1Nicolas8-Taller-aplicaci-n-empresarial-con-EJB-JPA-master/JEE_Project-war/JEE_Project-war.iml" filepath="$PROJECT_DIR$/1Nicolas8-Taller-aplicaci-n-empresarial-con-EJB-JPA-master/JEE_Project-war/JEE_Project-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Taller aplicación empresarial Jesus Bravo.iml" filepath="$PROJECT_DIR$/.idea/Taller aplicación empresarial Jesus Bravo.iml" />
+    </modules>
+  </component>
+</project>
